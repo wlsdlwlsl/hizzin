@@ -1,1 +1,10 @@
+git pull
+git add "파일명" 또는 .
+git add "파일명" 또는 .
+git commit -m "메시지 남기기"
+git push
+
+
+
+
 # git_command
