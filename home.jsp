@@ -7,7 +7,7 @@
 </head>
 <body>
 <h1>
-	Hello world!  
+	Hello world  
 </h1>
 
 <P>  <a href='/user/userLogin'>로그인</a> </P>
